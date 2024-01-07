@@ -1,2 +1,2 @@
 # PySSH
-Python SSH conector
+This is PySSH conector
