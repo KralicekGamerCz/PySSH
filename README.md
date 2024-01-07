@@ -1,2 +1,4 @@
 # PySSH
-This is PySSH conector
+- This is SSH conector
+- It can save conection
+- Save conection to bat files
